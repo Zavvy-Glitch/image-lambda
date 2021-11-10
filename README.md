@@ -9,4 +9,4 @@
     - Parsing the data into a JSON file
 
 
-  - [JSON Link](https://lab17-images.s3.us-west-2.amazonaws.com/images.json)
+  - [JSON File Link](https://lab17-images.s3.us-west-2.amazonaws.com/images.json)
