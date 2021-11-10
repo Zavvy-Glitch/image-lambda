@@ -1,6 +1,4 @@
-# image-lambda
-
-[JSON Link](https://lab17-images.s3.us-west-2.amazonaws.com/images.json)
+# AWS Lambda / S3
 
 ## Documentation
 
